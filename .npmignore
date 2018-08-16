@@ -7,9 +7,6 @@ pids
 *.pid
 *.seed
 
-# source files (transpiled under dist)
-src
-
 # samples
 samples
 
